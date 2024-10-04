@@ -1,0 +1,12 @@
+Test – Deteksjon av bokser med feil
+Under denne oppgaven skal du bruke OpenCV til å skrive en algoritme som kan detektere bokser
+med feil.
+
+Under samme mappe som denne oppgaven kan du finne en mappe som heter Bilder. I denne
+mappen har du bilder med ok bokser merket med «Ok#», og bokser med feil merked med (Error#).
+
+Krav til program:
+1. Skal kunne finne en ok boks på bilde og vise det tydelig ved å markere den grønn.
+2. Skal kunne oppdage feil som skiller seg fra ok bokser og markere dem med rødt.
+3. Skal loope gjennom alle bildene og vise resultatet på skjerm med 3 sekunders mellomrom.
+4. Programmet skal kunne kjøres fra hvilken som helst PC med windows og Python installert.
